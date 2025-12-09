@@ -1,6 +1,6 @@
 📌 Project Overview
 
-This project applies unsupervised machine learning (K-Means Clustering) to the TMDB 5000 Movie Dataset to identify distinct "Business Archetypes" in the film industry. By analyzing financial metrics (Budget, Revenue, ROI) alongside Genre data, we move beyond simple genre classifications to understand the economic structure of movie production.
+This project applies unsupervised machine learning (K-Means Clustering) to the TMDB 5000 Movie Dataset to identify distinct "Business Archetypes" in the film industry. By analyzing financial metrics (Budget, Revenue, ROI) alongside Genre data, I move beyond simple genre classifications to understand the economic structure of movie production.
 
 🎯 Key Objectives
 
@@ -18,7 +18,7 @@ Action Blockbusters (Cluster 2): Highest Budget, Moderate ROI (High Risk/High Re
 Mid-Budget Flops (Cluster 3): Moderate Budget, Lowest ROI (The "Death Zone").
 
 🌟 Enhancement: Genre-Stratified Clustering
-Following academic feedback, we implemented a secondary analysis that clusters movies within their specific genres. This revealed that "Big Budget" is relative:
+Following academic feedback, I implemented a secondary analysis that clusters movies within their specific genres. This revealed that "Big Budget" is relative:
 
 Action Blockbuster: $150M+
 Horror Blockbuster: $40M+ This proves that financial success must be judged relative to genre expectations.
